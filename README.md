@@ -1,2 +1,9 @@
-# Breakout-Game
-This project is a simple Breakout game created with Python and Pygame. The objective is to control a paddle to bounce a ball and score points by keeping it in play. The game includes collision detection, score tracking, and a customizable speed increase. Designed for desktop, with potential adaptation for mobile touch controls.
+Breakout Game in Python
+A simple, classic-style Breakout game built with Python and Pygame. The player controls a paddle to keep the ball in play, scoring points each time the ball hits the top of the screen. The game speeds up every few points, and if the ball falls below the paddle, the player can restart the game.
+
+Features
+Paddle and ball movement with collision detection
+Scoring system that increases as the ball hits the top
+Ball speed increases every 5 points
+Sound effects on collision
+Game restart option after losing
